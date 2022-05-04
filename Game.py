@@ -1,6 +1,6 @@
 
 
-class Game:
+class Game:#hello
 
     def find_3_in_row(board):
         for i in range(3):
